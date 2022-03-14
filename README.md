@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ks-dhiya
 - 👀 I’m interested in UI/UX, 3D Modelling, Game Development
-- 🌱 I’m currently learning Computer Science
 - 📫 How to reach me via my LinkedIn on www.linkedin.com/in/dhiyasundara
 
 <!---
